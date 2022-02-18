@@ -446,6 +446,18 @@ body {
     font-size: 12px;
   }
 
+  .index-secvices-heading {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .index-service-head {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .index-services-img {
     display: none;
   }
