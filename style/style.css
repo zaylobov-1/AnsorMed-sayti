@@ -445,4 +445,8 @@ body {
     /* margin-right: auto; */
     font-size: 12px;
   }
+
+  .index-services-img {
+    display: none;
+  }
 }
